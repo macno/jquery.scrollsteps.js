@@ -1,0 +1,17 @@
+{
+  "name": "jquery-scrollsteps",
+  "version": "2.0.4",
+  "main": "./jquery.scrollsteps.min.js",
+  "ignore": [
+    "*.json",
+    "*.md",
+    "*.txt",
+    "*.html",
+    ".*",
+    "!LICENSE.txt",
+  ],
+  "dependencies": {
+    "jquery": ">=1.2.2",
+    "jquery-mousewheel": "~3.1.12"
+  }
+}
