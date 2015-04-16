@@ -1,7 +1,9 @@
 {
   "name": "jquery-scrollsteps",
   "version": "2.0.6",
-  "main": "./jquery.scrollsteps.min.js",
+  "main": [
+	"jquery.scrollsteps-min.js"
+  ],
   "ignore": [
     "*.json",
     "*.md",
@@ -10,6 +12,4 @@
     ".*",
     "!LICENSE.txt",
   ],
-  "dependencies": {
-  }
 }
